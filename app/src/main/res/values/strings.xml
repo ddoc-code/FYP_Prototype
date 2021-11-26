@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FYP Prototype</string>
+    <string name="app_title">My App</string>
+    <string name="login_button">Login</string>
+    <string name="view_events_title">All Events</string>
+    <string name="get_data_button">Refresh</string>
+    <string name="connection_info">Connecting to database...</string>
+    <string name="create_an_event_button">Create An Event</string>
+    <string name="create_event_title">Create An Event</string>
+    <string name="create_event_text">Please fill out all fields to create an event. Some fields require input in precise formats. Do not use symbols.</string>
+    <string name="create_event_name">Event Name</string>
+    <string name="create_event_date">Date (YYYY-MM-DD)</string>
+    <string name="create_event_venue">Venue</string>
+    <string name="create_event_price">Ticket Price (£)</string>
+    <string name="create_event_description">Description</string>
+    <string name="create_event_button">Create Event</string>
+</resources>
